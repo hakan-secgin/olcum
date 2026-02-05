@@ -1,7 +1,0 @@
-{
-  "name": "ArMeasure Lite",
-  "description": "A PWA tool to measure distance between two points using camera trigonometry and device sensors.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
